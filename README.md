@@ -24,3 +24,4 @@ function hello() {
 
 
 _안녕_
+_안녕하세요_
