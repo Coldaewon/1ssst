@@ -13,6 +13,6 @@
 ~~바보~~
 '''
 function hello() {
- print(안녕);
+ print('안녕');
  }
  '''
